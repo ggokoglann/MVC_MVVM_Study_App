@@ -1,5 +1,5 @@
 
-# MCV_MVVM_Study_App
+# MCV-MVVM Study App
 
 The aim of this study project is to explore and implement the MVVM (Model-View-ViewModel) design pattern in a currencies app developed in Swift. By adopting MVVM, the project aims to separate the concerns of the View and ViewModel components, promoting better code organization, testability, and maintainability. Through this project, my aim is to gain a deeper understanding of MVVM principles, such as data binding, decoupling of UI logic, and the role of the ViewModel in managing the state and behavior of the View. The project serves as an opportunity to enhance coding skills and explore best practices in architecting iOS applications.
 
